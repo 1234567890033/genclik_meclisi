@@ -90,3 +90,4 @@ def main(page: ft.Page):
 
 # Uygulamayı tarayıcıda çalıştırmak için:
 ft.app(target=main, view=ft.WEB_BROWSER)
+# test satırı
